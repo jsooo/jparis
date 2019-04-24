@@ -1,4 +1,7 @@
-Paris
+### 本项目 基于原有Paris进行更新，感谢j4mie的贡献
+
+
+JParis
 =====
 
 [![Build Status](https://travis-ci.org/j4mie/paris.png?branch=master)](https://travis-ci.org/j4mie/paris) [![Latest Stable Version](https://poser.pugx.org/j4mie/paris/v/stable.png)](https://packagist.org/packages/j4mie/paris) [![Total Downloads](https://poser.pugx.org/j4mie/paris/downloads.png)](https://packagist.org/packages/j4mie/paris)
