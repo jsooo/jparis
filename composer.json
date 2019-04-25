@@ -1,12 +1,12 @@
 {
-    "name": "j4mie/paris",
+    "name": "jsooo/jparis",
     "type": "library",
     "description": "A lightweight Active Record implementation for PHP5, built on top of Idiorm",
     "keywords": ["paris", "orm", "active record", "model"],
     "homepage": "http://j4mie.github.com/idiormandparis",
     "support": {
-        "issues": "https://github.com/j4mie/paris/issues",
-        "source": "https://github.com/j4mie/paris"
+        "issues": "https://github.com/jsooo/jparis/issues",
+        "source": "https://github.com/jsooo/jparis"
     },
     "authors": [
         {
@@ -26,6 +26,12 @@
             "email": "me@durhamhale.com",
             "homepage": "http://durhamhale.com",
             "role": "Maintainer"
+        },
+        {
+            "name": "Johnson Wang",
+            "email": "wjsh1119@gmail.com",
+            "homepage": "",
+            "role": "Developer"
         }
     ],
     "license": [
@@ -35,7 +41,7 @@
     ],
     "require": {
         "php": ">=5.2.0",
-        "j4mie/idiorm": "1.5.*"
+        "jsooo/jidiorm": ">=1.6.0"
     },
     "scripts": {
         "test": "phpunit"
@@ -44,6 +50,6 @@
         "phpunit/phpunit": "^4.8"
     },
     "autoload": {
-        "classmap": ["paris.php"]
+        "classmap": ["jparis.php"]
     }
 }
